@@ -11,10 +11,10 @@ const IndexPage = () => (
         id="about"
       >
         <div className="w-100">
-          <h1 className="mb-0">
+          <h2 className="mb-0">
             {config.firstName}
             <span className="text-primary">{config.lastName}</span>
-          </h1>
+          </h2>
           <div className="subheading mb-5">
             {config.address} · {config.phone} ·
             <a href={`mailto:${config.email}`}>{config.email}</a>
