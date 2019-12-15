@@ -12,8 +12,7 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <h2 className="mb-0">
-            {config.firstName}
-            <span className="text-primary">{config.lastName}</span>
+            <span className="text-primary">{config.firstName}</span>
           </h2>
           <div className="subheading mb-5">
             {config.address} · {config.phone} ·
