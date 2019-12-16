@@ -74,7 +74,7 @@ const IndexPage = () => (
               <h3 className="mb-0">Web Investigator</h3>
               <div className="subheading mb-3">level: high</div>
               <p>
-              I am very good at finding data through the internet. By using different techniques I can find information on the internet. I am highly trained in this field, but some of the specialists. By applying different methods, different approaches and with a bit of luck, I can find almost any information lying on the internet. I utilize not only google but also many other technologies which untouched by an average person. This skill is a blessing for me.
+              I am very good at finding data through the internet. By using different techniques I can find information on the internet. I am highly trained in this field by some of the specialists. By applying different methods, different approaches and with a bit of luck, I can find almost any information lying on the internet for advanced people. I utilize not only google but also many other technologies which is untouched by an average person. This skill is a blessing for me.
               </p>
             </div>
             <div className="resume-date text-md-right">
@@ -122,7 +122,7 @@ const IndexPage = () => (
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">First Unsuccessfull Suicide Attempt</h3>
-              <div className="subheading mb-3">This unsuccessfull attempt educated a lot about how life is so important and how I should live my life. It was the turning point of my life.</div>
+              <div className="subheading mb-3">This unsuccessfull attempt educated me a lot about how life is so important and how I should live my life. It was the turning point of my life.</div>
               <p>Impact: 9.50</p>
             </div>
             <div className="resume-date text-md-right">
@@ -141,7 +141,7 @@ const IndexPage = () => (
             </div>
           </div>
           <p className="mb-0">
-          <b>From my childhood I heard all the that I have to be an Engineer. So, at first I wanted to be a Electric and Electronical Engineering, then Programmer, then Doctor, then a show owner, then a farm owner, then a Marine Engineer, then an English Professor, then a banker, then a Pilot and now I want to be a Barrister.</b>
+          <b>From my childhood I heard all the time that I have to be an Engineer. So, at first I wanted to be a Electric and Electronical Engineering, then Programmer, then Doctor, then a shop owner, then a farm owner, then a Marine Engineer, then an English Professor, then a banker, then a Pilot and now I want to be a Barrister.</b>
           </p>
         </div>
       </section>
