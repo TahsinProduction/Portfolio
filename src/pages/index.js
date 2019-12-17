@@ -248,7 +248,7 @@ const IndexPage = () => (
         <div className="w-100">
           <h2 className="mb-5">Ambition</h2>
           <p>
-          I am not a very ambitious person, but there are some things I dreamt about in my childhood, which I made true and some things left to make true. I am writing about some of my dreams dreams below.
+          I am not a very ambitious person, but there are some things I dreamt about in my childhood, which I made true and some things left to make true. I am writing about some of my dreams below.
           </p>
           <ul className="fa-ul mb-0">
             <li>
@@ -257,19 +257,19 @@ const IndexPage = () => (
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              I want to buy a home small sweet home in a remote village where there is hardly any technology available. I want to build that home very far from the locality and even if I build in a society I will make sure that there is no negative people, because negative people always spread negativity. My life is already full of negative people so don't want any negative people in the future. I will live in that home with as less people as possible, so I can find peace.
+              I want to buy a home small sweet home(Which I call SSH) in a remote village where there is hardly any technology available. I want to build that home very far from the locality and even if I build in a society I will make sure that there is no negative people, because negative people always spread negativity. My life is already full of negative people so don't want any negative people in the future. I will live in that home with as less people as possible, so I can find peace.
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              I want to build an orphanage. Most of the people don't know, but I am partially orphan. Like I have father and mother both, but I have none. But I grew up like an orphan. My life was way worse than the child grew up in an orphanage. My life was hard and it is still hard, that time I couldn't even think about being a better person because life was so messed up. Life was hell, live was painful and the thought of committing suicide came again and again in mind. Nothing but people of this society did all of this. I can understand their feeling and that's why my orphanage will be different. The main focus will be mental health. No drug addict will be allowed though
+              I want to build an orphanage. Most of the people don't know, but I am partially orphan. Like I have father and mother both, but I have none in reality. But I grew up like an orphan. My life was way worse than the child grew up in an orphanage. My life was hard and it is still hard, every moment of my life was intense and it was full of complexity, before I couldn't even think about being a better person because life was so messed up. Life was hell, live was painful and the thought of committing suicide came again and again in mind. Nothing but people of this society did all of this. I can understand their feeling and that's why my orphanage will be different. The main focus will be mental health, because this is the part people is most careless about. No drug addict will be allowed though.
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              I want to build a Retirement Home or an Old Age Home. I feel bad for those old people whose children don't want to stay with them. Those old people feel lonely and sometimes have to go through terrible situations. Most of the time older people have no one to talk to. Whenever I go to a house in which there is an old person, I spend time talking with him rather than playing with other kids. Even weekend I visit my grandmother to spend with her. No drug addict will be allowed
+              I want to build a Retirement Home or an Old Age Home. I feel bad for those old people whose children don't want to stay with them. Those old people feel lonely and sometimes have to go through terrible situations. Most of the time older people have no one to talk to. Whenever I go to a house in which there is an old person, I spend time talking with him rather than playing with other kids. Even weekend I visit my grandmother to spend with her. No drug addict will be allowed.
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              I want to adopt an orphan rather than having my own child. I have two reasons for doing this. The first and the most important thing is there is someone who just need a hand to get out of his/her terrible life. Your one hand can make someone's life better. The second reason is overpopulation. The world is exploding with overpopulation, there is already kid way more than the world can handle, so why bring another and increase the problem. I got another one, there is a very little chance of women dying during pregnancy. I know it's extremely rare, but why take risks. People have their own kids thinking that kid will carry their genetics and this is the reason most people don't adopt other people's kid. I have seen many people adopt animals, but when hear about adopting a child, they don't want to do it. They can spend thousands of dollars on vet, but not on a child. Even in most foster homes children suffer because they don't want the kid instead they want the money that the government gives them. It's shameful. For me, it's not an option but a choice.
+              I want to adopt an orphan rather than having my own child. I have two reasons for doing this. The first and the most important thing is there is someone who just need a hand to get out of his/her terrible life. Your one hand can make someone's life better. The second reason is overpopulation. The world is exploding with overpopulation, there is already kid way more than the world can handle, so why bring another and increase the problem. I got another one, there is a very little chance of women dying during pregnancy. I know it's extremely rare, but why take risks. People have their own kids thinking that kid will carry their genetics and this is the reason most people don't adopt other people's kid. I have seen many people adopt animals, but when hear about adopting a child, they don't want to do it. They can spend thousands of dollars on vet, but not on a child. It's their choice and people have the freedom to make choice, even if that choice is wrong. Even in most foster homes children suffer because they don't want the kid instead they want the money that the government gives them. It's shameful. For me, it's not an option but a choice.
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
@@ -277,7 +277,7 @@ const IndexPage = () => (
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              I want to be influential in society so I do things like, throw drug addicts our of the country and stop people from having a divorce if they already have a child. Even though I know it's never gonna come true. At the same time, I don't want to be an influential person because the usually go through a high mental pressure which I am not willing to take.
+              I want to be influential in society so I can do things like, throw drug addicts our of the country and stop people from having a divorce if they already have a child because it harms adolescent mind. Even though I know it's never gonna come true. At the same time, I don't want to be an influential person because they usually go through a high mental pressure which I am not willing to take.
             </li>
           </ul>
           <p className="mb-0">
@@ -300,7 +300,7 @@ const IndexPage = () => (
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-bomb text-warning"></i>
-              <b>Mental:</b> Let's start with the processor of the human body. I have many flaws in this part. I have Depression Disorder. I have early signs of Dementia. I have Dissociative Identity Disorder which is also known as Multiple Personality Disorder. Maybe I am the first person to admit that, but I have Antisocial Personality Disorder, which is sometimes known as Psychopathic Personality Disorder but I am trying hard to get rid of it also I opted myself for treatment. I chose to have treatment in another continent rather than my native country. At first nobody told that I have any disorder, but I have some problem with my brain. Doctor said that I did a good job to consult do a doctor rather than having narcotic drugs and my brain is better than other people's brain because I can understand which is good & which is bad for me. I work on my problems, to solve them. And I am improving fast.
+              <b>Mental:</b> Let's start with the processor of the human body. I have most of the flaws in this part. I have Depression Disorder. I have early signs of Dementia. I have Dissociative Identity Disorder which is also known as Multiple Personality Disorder. Maybe I am the first person to admit this, but I have Antisocial Personality Disorder, which is sometimes known as Psychopathic Personality Disorder but I am trying hard to get rid of it, also I opted myself for treatment. I chose to have treatment in another continent rather than in my native country. At first nobody noticed that I have any disorder and told me that I am just fine, but I knew there is some problem with my brain. Doctor said that I did a good job to consult to a doctor rather than taking narcotic drugs by myself. Doctor also said that my brain is better than other people's brain because it can difference between good and bad. I work on my problems to solve them. And I am improving fast.
             </li>
             <li>
               <i className="fa-li fa fa-bomb text-warning"></i>
@@ -308,7 +308,7 @@ const IndexPage = () => (
             </li>
             <li>
               <i className="fa-li fa fa-bomb text-warning"></i>
-              <b>Family:</b> My family is a huge pain for me. Even this is one of the biggest reason of all of my mental disorders. My doctor told me to get rid of the family and start living in a good neighborhood because this family is very toxic which is harmful for me. Their toxic words are the main reason of my mental illness.
+              <b>Family:</b> My family is a huge pain for me. Even this is one of the biggest reason of all of my mental disorders. My doctor told me to get rid of the family and start living in a good neighborhood because this family is very toxic which is harmful for me. Their toxic words and behaviour are the main reason of my mental illness.
             </li>
           </ul>
         </div>
